@@ -1,0 +1,118 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://katherincanti.github.io/cindycanti" resolutions="1x" timestamp="1516754574028">
+  <folder name="css">
+    <file name="site_global.css" crc="3980600426"/>
+    <file name="master_a-p_g_-maestra.css" crc="3853902655" ref="galería:index:contacto"/>
+    <file name="galer_a.css" crc="125532864" ref="galería"/>
+    <file name="index.css" crc="432402424" ref="index"/>
+    <file name="contacto.css" crc="4061796488" ref="contacto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:galería:contacto"/>
+    <file name="museutils.js" crc="183364071" ref="index:galería:contacto"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:galería"/>
+    <file name="webpro.js" crc="3803554875" ref="index:galería:contacto"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:galería"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:galería"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:galería"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:galería:contacto"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index:galería:contacto"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index:galería:contacto"/>
+    <file name="form_process.php" crc="24249335" ref="index:galería:contacto"/>
+    <file name="form-u315.php" crc="3967219484" ref="index:galería:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:galería:contacto"/>
+    <file name="form-u703.php" crc="4255437870" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3818863916" ref="index"/>
+    <file name="sígueme.png" crc="53398737" seo="true" ref="index"/>
+    <file name="1ojos abiertos - copia (2).png" crc="141226687" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:galería"/>
+    <file name="2ojos abiertos - copia (3).png" crc="141226687" seo="true" ref="index"/>
+    <file name="3ojos abiertos - copia (4).png" crc="141226687" seo="true" ref="index"/>
+    <file name="4ojos abiertos - copia (5).png" crc="141226687" seo="true" ref="index"/>
+    <file name="5ojos abiertos - copia (6).png" crc="141226687" seo="true" ref="index"/>
+    <file name="6ojos abiertos - copia.png" crc="141226687" seo="true" ref="index"/>
+    <file name="7ojos cerrados - copia (2).png" crc="91540409" seo="true" ref="index"/>
+    <file name="8ojos abiertos centro - copia (2).png" crc="317143963" seo="true" ref="index"/>
+    <file name="9ojos abiertos centro - copia (3).png" crc="317143963" seo="true" ref="index"/>
+    <file name="10ojos abiertos centro - copia (4).png" crc="317143963" seo="true" ref="index"/>
+    <file name="11ojos abiertos centro - copia (5).png" crc="317143963" seo="true" ref="index"/>
+    <file name="12ojos abiertos centro - copia (6).png" crc="317143963" seo="true" ref="index"/>
+    <file name="13ojos abiertos centro - copia.png" crc="317143963" seo="true" ref="index"/>
+    <file name="14ojos cerrados - copia (3).png" crc="91540409" seo="true" ref="index"/>
+    <file name="15ojos abiertos - copia (2).png" crc="141226687" seo="true" ref="index"/>
+    <file name="16ojos abiertos - copia (31).png" crc="141226687" seo="true" ref="index"/>
+    <file name="17ojos abiertos - copia (4).png" crc="141226687" seo="true" ref="index"/>
+    <file name="18ojos abiertos - copia.png" crc="141226687" seo="true" ref="index"/>
+    <file name="19ojos abiertos.png" crc="141226687" seo="true" ref="index"/>
+    <file name="20ojos cerrados - copia (4).png" crc="91540409" seo="true" ref="index"/>
+    <file name="ojos abiertos centro - copia (2).png" crc="317143963" seo="true" ref="index"/>
+    <file name="ojos abiertos centro - copia (3).png" crc="317143963" seo="true" ref="index"/>
+    <file name="ojos abiertos centro - copia.png" crc="317143963" seo="true" ref="index"/>
+    <file name="ojos abiertos centro.png" crc="317143963" seo="true" ref="index"/>
+    <file name="ojos cerrados.png" crc="91540409" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:galería"/>
+    <file name="globo.png" crc="264530469" seo="true" ref="index"/>
+    <file name="inicio.jpg" crc="4055484950" seo="true" ref="index"/>
+    <file name="u520-grad.png" crc="3900388024" ref="index"/>
+    <file name="estrella4-02.png" crc="3899390000" seo="true" ref="index"/>
+    <file name="estrella3-02-02.png" crc="308901445" seo="true" ref="index"/>
+    <file name="estrellas1-02-02-crop-u2647.png" crc="4147709516" ref="index"/>
+    <file name="estrellas1-02-02-crop-u3705.png" crc="4147709516" ref="index"/>
+    <file name="estrellas1-02-02-crop-u3773.png" crc="4147709516" ref="index"/>
+    <file name="estrellas1-02-02-crop-u3830.png" crc="3795052628" ref="index"/>
+    <file name="sin título-1-recuperado-recuperado-crop-u547.png" crc="260087071" ref="index"/>
+    <file name="imagen pegada 2806x900-crop-u3485.jpg" crc="47976742" ref="index"/>
+    <file name="perfil.png" crc="379279989" seo="true" ref="index"/>
+    <file name="nubes1.png" crc="4070849104" seo="true" ref="index"/>
+    <file name="nubes2.png" crc="4109178241" seo="true" ref="index"/>
+    <file name="galeria.png" crc="4118507140" seo="true" ref="index"/>
+    <file name="platillo volador.png" crc="4030872784" seo="true" ref="index"/>
+    <file name="luz.png" crc="4281585344" seo="true" ref="index"/>
+    <file name="vaca-01-01.png" crc="4057820431" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (2).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (3).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (4).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (5).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (6).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (7).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (8).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (9).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia (10).png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01 - copia.png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos abiertos-01.png" crc="3821503188" seo="true" ref="index"/>
+    <file name="ojos cerrados-01.png" crc="463583386" seo="true" ref="index"/>
+    <file name="videos.png" crc="408123340" seo="true" ref="index"/>
+    <file name="u331-17.png" crc="380298718" ref="index:galería:contacto"/>
+    <file name="u331-17-r.png" crc="4027672137" ref="index:galería:contacto"/>
+    <file name="u331-17-m.png" crc="121147933" ref="index:galería:contacto"/>
+    <file name="u331-17-fs.png" crc="3969154064" ref="index:galería:contacto"/>
+    <file name="portafolio.jpg" crc="3896446658" seo="true" ref="galería"/>
+    <file name="1.png" crc="238668377" seo="true" ref="galería"/>
+    <file name="3.png" crc="4169744369" seo="true" ref="galería"/>
+    <file name="4.png" crc="4115253921" seo="true" ref="galería"/>
+    <file name="5.png" crc="188021094" seo="true" ref="galería"/>
+    <file name="2.png" crc="320732677" seo="true" ref="galería"/>
+    <file name="9.png" crc="486217080" seo="true" ref="galería"/>
+    <file name="10.png" crc="4117077750" seo="true" ref="galería"/>
+    <file name="16.png" crc="4080535252" seo="true" ref="galería"/>
+    <file name="11.png" crc="3887482129" seo="true" ref="galería"/>
+    <file name="12.png" crc="4252358970" seo="true" ref="galería"/>
+    <file name="13.png" crc="3961232246" seo="true" ref="galería"/>
+    <file name="14.png" crc="393329346" seo="true" ref="galería"/>
+    <file name="15.png" crc="63256995" seo="true" ref="galería"/>
+    <file name="7.png" crc="133712313" seo="true" ref="galería"/>
+    <file name="8.png" crc="3801182427" seo="true" ref="galería"/>
+    <file name="6.png" crc="340041867" seo="true" ref="galería"/>
+    <file name="vídeo.jpg" crc="4279195528" seo="true" ref="galería"/>
+    <file name="contacto.jpg" crc="507606452" seo="true" ref="contacto"/>
+    <file name="u709-17.png" crc="380298718" ref="contacto"/>
+    <file name="u709-17-r.png" crc="4027672137" ref="contacto"/>
+    <file name="u709-17-m.png" crc="121147933" ref="contacto"/>
+    <file name="u709-17-fs.png" crc="3969154064" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="4210999721" seo="true" mt="1516739399478" redirect="true"/>
+  <file name="galería.html" crc="4165959088" seo="true" mt="1516739399478" redirect="true"/>
+  <file name="contacto.html" crc="281006031" seo="true" mt="1516739399478" redirect="true"/>
+</manifest>
